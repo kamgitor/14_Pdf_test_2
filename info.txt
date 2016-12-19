@@ -1,0 +1,7 @@
+
+ze strony
+http://www.squarepdf.net/how-to-convert-pdf-to-text-in-net
+
+Wojtek poleca pdfsharp
+http://www.pdfsharp.net/?AspxAutoDetectCookieSupport=1
+
