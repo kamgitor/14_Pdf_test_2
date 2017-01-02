@@ -1,0 +1,4 @@
+D:\Projekty\PDFsharp\samples\Samples C#\Based on GDI+\TextLayout\obj\Release\ResolveAssemblyReference.cache
+D:\Projekty\PDFsharp\samples\Samples C#\Based on GDI+\TextLayout\bin\Release\TextLayout.exe
+D:\Projekty\PDFsharp\samples\Samples C#\Based on GDI+\TextLayout\bin\Release\PdfSharp.dll
+D:\Projekty\PDFsharp\samples\Samples C#\Based on GDI+\TextLayout\obj\Release\TextLayout.exe
