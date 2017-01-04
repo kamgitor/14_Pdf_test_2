@@ -1,0 +1,13 @@
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\Pdf2Text.exe
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\Pdf2Text.pdb
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\commons-logging.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\fontbox-1.8.9.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\IKVM.OpenJDK.Core.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\IKVM.OpenJDK.Text.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\IKVM.OpenJDK.Util.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\IKVM.Runtime.dll
+k:\ProjektyC#\14_Pdf_test_2\bin\Debug\pdfbox-1.8.9.dll
+k:\ProjektyC#\14_Pdf_test_2\obj\Debug\Pdf2Text.csprojResolveAssemblyReference.cache
+k:\ProjektyC#\14_Pdf_test_2\obj\Debug\Pdf2Text.exe
+k:\ProjektyC#\14_Pdf_test_2\obj\Debug\Pdf2Text.pdb

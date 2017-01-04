@@ -1,0 +1,4 @@
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csprojResolveAssemblyReference.cache
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.resources
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.de.resources
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csproj.GenerateResource.Cache
