@@ -56,25 +56,25 @@ namespace WorkOnPdfObjects
       // Read document into memory for modification
       PdfDocument document = PdfReader.Open(filename);
 
-      // The current version of PDFsharp doesn't support the concept of
-      // 'actions'. Actions will come in a future version, but if you need them
-      // now, you can have them 'handmade'.
-      //
-      // This sample works on PDF objects directly, therefore some knowledge of
-      // the structure of PDF is required.
-      // If you are not familiar with the portable document format, first read
-      // at least chapter 3 in Adobe's PDF Reference 
-      // (http://partners.adobe.com/public/developer/pdf/index_reference.html).
-      // If you can read German, I recommend chapter 12 of 'Die PostScript & 
-      // PDF-Bibel', a much more interesting reading than the bone-dry Adobe
-      // books (http://www.pdflib.com/de/produkte/mehr/bibel/index.html).
-      //
-      // The sample task is to add an 'open action' to the document so that it
-      // starts with the content of page 3 magnified just enough to fit the
-      // height of the page within the window.
+		// The current version of PDFsharp doesn't support the concept of
+		// 'actions'. Actions will come in a future version, but if you need them
+		// now, you can have them 'handmade'.
+		//
+		// This sample works on PDF objects directly, therefore some knowledge of
+		// the structure of PDF is required.
+		// If you are not familiar with the portable document format, first read
+		// at least chapter 3 in Adobe's PDF Reference 
+		// (http://partners.adobe.com/public/developer/pdf/index_reference.html).
+		// If you can read German, I recommend chapter 12 of 'Die PostScript & 
+		// PDF-Bibel', a much more interesting reading than the bone-dry Adobe
+		// books (http://www.pdflib.com/de/produkte/mehr/bibel/index.html).
+		//
+		// The sample task is to add an 'open action' to the document so that it
+		// starts with the content of page 3 magnified just enough to fit the
+		// height of the page within the window.
 
-      // First we have to create a new dictionary that defines the action.
-      PdfDictionary dict = new PdfDictionary(document);
+	  // First we have to create a new dictionary that defines the action.
+	  PdfDictionary dict = new PdfDictionary(document);
 
       // According to the PDF Reference the dictionary requires two elements.
       // A key /S that specifies the 'GoTo' action,

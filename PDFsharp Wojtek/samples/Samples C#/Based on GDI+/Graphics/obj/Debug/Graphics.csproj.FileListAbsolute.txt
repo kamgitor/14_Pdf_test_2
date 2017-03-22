@@ -1,0 +1,6 @@
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Graphics\bin\Debug\Graphics.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Graphics\bin\Debug\Graphics.pdb
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Graphics\bin\Debug\PdfSharp.dll
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Graphics\obj\Debug\Graphics.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Graphics\obj\Debug\Graphics.pdb

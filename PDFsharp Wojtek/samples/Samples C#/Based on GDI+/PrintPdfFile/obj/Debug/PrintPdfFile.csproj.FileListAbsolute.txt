@@ -1,0 +1,5 @@
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PrintPdfFile\bin\Debug\PrintPdfFile.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PrintPdfFile\bin\Debug\PrintPdfFile.pdb
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PrintPdfFile\bin\Debug\PdfSharp.dll
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PrintPdfFile\obj\Debug\PrintPdfFile.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PrintPdfFile\obj\Debug\PrintPdfFile.pdb

@@ -1,0 +1,8 @@
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\bin\Debug\Preview.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\bin\Debug\Preview.pdb
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\bin\Debug\PdfSharp.dll
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\obj\Debug\Preview.csprojResolveAssemblyReference.cache
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\obj\Debug\Preview.PreviewForm.resources
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\obj\Debug\Preview.csproj.GenerateResource.Cache
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\obj\Debug\Preview.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\Preview\obj\Debug\Preview.pdb

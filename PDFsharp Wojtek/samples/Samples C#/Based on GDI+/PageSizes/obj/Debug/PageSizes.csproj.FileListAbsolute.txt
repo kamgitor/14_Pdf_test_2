@@ -1,0 +1,6 @@
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PageSizes\obj\Debug\PageSizes.csprojResolveAssemblyReference.cache
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PageSizes\bin\Debug\PageSizes.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PageSizes\bin\Debug\PageSizes.pdb
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PageSizes\bin\Debug\PdfSharp.dll
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PageSizes\obj\Debug\PageSizes.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\PageSizes\obj\Debug\PageSizes.pdb

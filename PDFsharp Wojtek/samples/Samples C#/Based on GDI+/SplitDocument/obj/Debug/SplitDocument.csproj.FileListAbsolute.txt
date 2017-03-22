@@ -1,0 +1,7 @@
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\bin\Debug\ChopDocument.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\bin\Debug\ChopDocument.pdb
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\bin\Debug\PdfSharp.dll
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\obj\Debug\ChopDocument.exe
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\obj\Debug\ChopDocument.pdb
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\bin\Debug\ChopDocument.exe.CodeAnalysisLog.xml
+k:\ProjektyC#\14_Pdf_test_2\PDFsharp Wojtek\samples\Samples C#\Based on GDI+\SplitDocument\bin\Debug\ChopDocument.exe.lastcodeanalysissucceeded
