@@ -5,3 +5,7 @@ http://www.squarepdf.net/how-to-convert-pdf-to-text-in-net
 Wojtek poleca pdfsharp
 http://www.pdfsharp.net/?AspxAutoDetectCookieSupport=1
 
+
+to jest najgorsza biblioteka.
+wciaga calego pdf'a jako jeden string - sa znaki konca wiersza (ale podwojne)
+brak tabow, a jak z rozroznianiem stron to nie wiem

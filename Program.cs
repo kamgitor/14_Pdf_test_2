@@ -28,7 +28,7 @@ namespace Pdf2Text
             {
                 // sw.WriteLine(parseUsingPDFBox(args[0]));
                 KamilPdfTest("Spiewnik KFC.pdf");
-                sw.WriteLine(parseUsingPDFBox("Spiewnik KFC.pdf"));
+                // sw.WriteLine(parseUsingPDFBox("Spiewnik KFC.pdf"));
             }
 
 			Console.WriteLine("Done. Took " + (DateTime.Now - start));
@@ -53,8 +53,16 @@ namespace Pdf2Text
                 PDPage page = stripper.getCurrentPage();
                 Matrix line2 = stripper.getTextMatrix();
                 int char_cnt = stripper.getTotalCharCnt();
-                string pdf = stripper.getText(doc);
+
+				string article_start = stripper.getArticleStart();
+				string article_end = stripper.getArticleEnd();
+
+
+
+
+				string pdf = stripper.getText(doc);                     // wrzuca caly tekst do sringa - dziala
                 char_cnt = pdf.Length;
+
             }
             finally
             {
@@ -66,24 +74,5 @@ namespace Pdf2Text
 
         }
 
-		private static string parseUsingPDFBox(string input)
-		{
-		    PDDocument doc = null;
-
-            try
-            {
-                doc = PDDocument.load(input);
-                PDFTextStripper stripper = new PDFTextStripper();
-                return stripper.getText(doc);
-                // stripper.
-            }
-            finally
-            {
-                if (doc != null)
-                {
-                    doc.close();
-                }
-            }
-		}
 	}
 }
